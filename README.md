@@ -1,3 +1,6 @@
+Pull from original, fix one issue that it only works for react native 0.4.0.
+Just change the react-native-chart to react-native-chart-nosensezzz to use, I re-publish with this name.
+
 # react-native-chart
 react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
 

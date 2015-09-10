@@ -1,12 +1,12 @@
 {
-  "name": "react-native-chart",
-  "version": "0.0.4",
+  "name": "react-native-chart-nosensezzz",
+  "version": "0.0.1",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/onefold/react-native-chart.git"
+    "url" : "https://github.com/nosensezzz/react-native-chart.git"
   },
   "main": "Chart.ios.js",
-  "author": "Hyun Cho <hyun@onefold.io> (http://onefold.io)",
+  "author": "nosensezzz <nosensezzz@gmail.com>",
   "peerDependencies": {
     "react-native": ">0.4.0"
   },
